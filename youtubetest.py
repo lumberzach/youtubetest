@@ -32,14 +32,3 @@ else:
     print(f"Please only enter numbers from 1 to 3")
 
 
-
-
-
-
-
-
-
-#print(ele.text)
-#print(ele.get_attribute('href'))
-
-
